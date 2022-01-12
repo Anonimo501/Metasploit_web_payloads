@@ -14,13 +14,13 @@ Sencillo script que genera payloads web.
 
 ## Uso
 
-git clone https://github.com/Anonimo501/Route_add.git
+git clone https://github.com/Anonimo501/Metasploit_web_payloads.git
 
-cd Route_add/
+cd Metasploit_web_payloads/
 
-chmod +x Route_add.sh
+chmod +x Metasploit_Payloads.sh
 
-./Route_add.sh
+./Metasploit_Payloads.sh
 
 # Referencias
 
