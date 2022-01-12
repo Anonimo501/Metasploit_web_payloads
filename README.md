@@ -9,7 +9,7 @@ Grupo en Telegram https://t.me/Pen7esting
 Sencillo script que genera payloads web.
 
 
-
+![1](https://user-images.githubusercontent.com/67207446/149179906-c4e92de4-ae46-419c-b408-2067e98f83a3.png)
 
 
 ## Uso
